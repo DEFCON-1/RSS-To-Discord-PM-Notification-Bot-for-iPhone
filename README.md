@@ -1,5 +1,5 @@
 # RSS-To-Discord-PM-Notification-Bot-for-iPhone
-This bot is intended to check the provided RSS feed every defined seconds and send a PM on discord to one user. This was made for iPhone users who have issues with their browsers' push notifications.
+This bot is intended to check the provided RSS feed every defined seconds and send a PM on discord to one user. This was made for iPhone users who have issues with their browsers' push notifications. Lets say for example we have set the RSS feed check interval to default 300 seconds. The bot will check the RSS feed every 5 minutes. And when it finds something new on the feed, it will send a PM to the defined user with Title and Link to that new content.
 
 This bot uses 3 packages in Python and they are listed below.
 * Discord
